@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Tim B.
-- 👀 I’m interested in programming, martial arts
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning to write more detailled WPF applications / Rust
